@@ -54,7 +54,7 @@ h1 {
 .baner {
     width: 700px;
     height: 400px;
-    background-image: url(/assets/baner.jpg);
+    background-image: url(/energy/assets/baner.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     margin: 0 auto;
